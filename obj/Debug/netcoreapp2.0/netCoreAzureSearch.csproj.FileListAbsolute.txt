@@ -1,0 +1,11 @@
+C:\Users\Ronan\netCoreAzureSearch\bin\Debug\netcoreapp2.0\netCoreAzureSearch.deps.json
+C:\Users\Ronan\netCoreAzureSearch\bin\Debug\netcoreapp2.0\netCoreAzureSearch.runtimeconfig.json
+C:\Users\Ronan\netCoreAzureSearch\bin\Debug\netcoreapp2.0\netCoreAzureSearch.runtimeconfig.dev.json
+C:\Users\Ronan\netCoreAzureSearch\bin\Debug\netcoreapp2.0\netCoreAzureSearch.dll
+C:\Users\Ronan\netCoreAzureSearch\bin\Debug\netcoreapp2.0\netCoreAzureSearch.pdb
+C:\Users\Ronan\netCoreAzureSearch\obj\Debug\netcoreapp2.0\netCoreAzureSearch.csprojResolveAssemblyReference.cache
+C:\Users\Ronan\netCoreAzureSearch\obj\Debug\netcoreapp2.0\netCoreAzureSearch.csproj.CoreCompileInputs.cache
+C:\Users\Ronan\netCoreAzureSearch\obj\Debug\netcoreapp2.0\netCoreAzureSearch.AssemblyInfoInputs.cache
+C:\Users\Ronan\netCoreAzureSearch\obj\Debug\netcoreapp2.0\netCoreAzureSearch.AssemblyInfo.cs
+C:\Users\Ronan\netCoreAzureSearch\obj\Debug\netcoreapp2.0\netCoreAzureSearch.dll
+C:\Users\Ronan\netCoreAzureSearch\obj\Debug\netcoreapp2.0\netCoreAzureSearch.pdb
